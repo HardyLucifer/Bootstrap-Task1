@@ -1,0 +1,69 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+
+
+.head {
+    font-weight: 600;
+    
+}
+.personl {
+    width: 40%;
+    padding: 8% 0;
+}
+
+.personl h1 {
+    font-weight: 700;
+
+}
+
+
+.butt {
+    padding: 5px; 
+    border-radius:30px; 
+    background-color: black; 
+    color: white;
+    width: 33%;
+}
+.box{
+    display: flex;
+
+}
+.photo {
+    width:350px;
+    height: 400px;
+    margin-left: 60%;
+}
+
+.lobb {
+    text-align: center;
+    align-items: center;
+    background-color: black;
+    color: white;
+    padding: 2% 0;
+}
+
+.about {
+    text-align: center;
+    margin: 0 20% 0 20%;
+    align-items: center;
+}
+.about i {
+    font-size: 55px;
+}
+
+ 
+.pics {
+    width: 100%;
+}
+.blue {
+    background-color: aqua;
+    padding: 12px;
+    
+}
+
+
